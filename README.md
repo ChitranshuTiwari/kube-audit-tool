@@ -1,6 +1,6 @@
 # Kube Audit Tool
 
-> A hands-on DevOps portfolio project demonstrating Kubernetes security auditing with Go. Built for learning and GSoC preparation.
+> A hands-on DevOps portfolio project demonstrating Kubernetes security auditing with Go.
 
 Go CLI to audit Kubernetes clusters for security best practices: resource limits, network policies, RBAC.
 
